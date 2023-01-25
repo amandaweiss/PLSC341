@@ -14,7 +14,7 @@
 
 # -------------------- Getting Acquainted with the Data ------------------------
 
-fear_data <- read.csv("https://raw.githubusercontent.com/amandaweiss/PLSC341/main/Young2018_replication_data_Fear_Dissent.csv")
+fear_data <- read.csv("https://raw.githubusercontent.com/amandaweiss/PLSC341/main/Section 1 - Data - Young 2018 Fear.csv.csv")
 
 View(fear_data)
 
