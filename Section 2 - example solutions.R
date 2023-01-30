@@ -15,7 +15,7 @@
 # (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UNNCTR),
 # explore the contents of the zip file a bit, and read the data into R.
 
-fear_data <- read.csv("https://raw.githubusercontent.com/amandaweiss/PLSC341/main/Section 1 - Data - Young 2018 Fear.csv")
+fear_data <- read.csv("https://raw.githubusercontent.com/amandaweiss/PLSC341/main/Example Data - Young 2018 Fear.csv")
 
 View(fear_data)
 
