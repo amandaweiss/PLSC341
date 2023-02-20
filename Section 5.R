@@ -68,7 +68,7 @@ mean(htests)
 
 # MEAN OF THE SIMULATED HAJEK ESTIMATES:
 
-# BIAS CALCULATION FOR THE HT ESTIMATES:
+# BIAS CALCULATION FOR THE HAJEK ESTIMATES:
 
 
 # ------------------------------ Exercise 2 ------------------------------------
