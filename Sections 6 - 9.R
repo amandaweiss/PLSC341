@@ -1,6 +1,6 @@
 ################################################################################
 #                     Logic of Randomized Experiments                          #
-#                         Discussion Section #6                                #
+#                         Discussion Section #6-9                                #
 ################################################################################
 
 # This week, we're going to be getting into some real data, and reading some 
