@@ -7,8 +7,8 @@
 
 #' ## Setup
 #' 
-#' This discussion section, we're going to analyze the data from the cutest
-#' doggie experiment. You are going to be tasked with identifying whether the
+#' This discussion section, we're going to analyze the data from the "cutest
+#' doggie" experiment. You are going to be tasked with identifying whether the
 #' class performed better than chance at identifying which photos show the 
 #' cutest doggie first in a series of questions. You are going to do this in 
 #' groups.
