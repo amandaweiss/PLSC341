@@ -16,12 +16,12 @@
 # to want to have 6 items: the original mean, the mean of the simulated
 # Horvitz-Thompson estimates, the bias of the Horvitz-Thompson estimator in this
 # case, the mean of the simulated Hajek estimates, and the bias of the Hajek
-# estimate.
+# estimate. 
 
 
 set.seed(123)
 
-# Simulation for HT estimator
+# Simulation for H-T estimator
 
 N <- 5
 y <- c(4, 3, 2, 1, 4)
