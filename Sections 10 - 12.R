@@ -1,6 +1,6 @@
 ################################################################################
 #                     Logic of Randomized Experiments                          #
-#                         Discussion Section #10                               #
+#                         Discussion Section #10-12                            #
 ################################################################################
 
 # This week, we're going to be focused on two topics: designing the 
